@@ -8,7 +8,8 @@ Berikut flowchartnya
 
 *Program akan meminta kita untuk memasukkan nama, nim, nilai tugas, nilai uts, nilai uas dan tambah data :*
 
-![Diagram Tanpa Judul drawio](https://github.com/user-attachments/assets/8bff8aea-6919-4f3d-8fea-5ca57de7a7f3)
+<img width="726" alt="Ss Run uts" src="https://github.com/user-attachments/assets/04136b41-a967-40ec-b398-26f08cf3180f">
+
 
 **Penjelasan Code**
 
